@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>HTML5的标题</title>
-</head>
-<body>
-<p>HTML5的内容！Hello</p>
-</body>
-</html>
+readme中的内容
